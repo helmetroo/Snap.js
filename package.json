@@ -11,6 +11,5 @@
     "side menu"
   ],
   "license": "MIT",
-  "main": "snap.js",
-  "scripts": ["snap.js"]
+  "main": "snap.js"
 }
